@@ -3,7 +3,7 @@ from reddit_handler import *
 
 app = Flask(__name__)
 
-meme_subreddits = ['memes']
+meme_subreddits = ['izlam']
 
 
 @app.route('/')
